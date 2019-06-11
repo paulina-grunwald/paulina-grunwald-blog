@@ -6,17 +6,14 @@ path: "/contact"
 
 If you would like to get in touch, please shoot me an message using below contact form. I’ll try get back to you within a day or so!
 
-<form name="contact" method="POST" data-netlify="true">
-  <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
-    <label>Your Email: <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+<form
+  name="contact-form"
+  method="post"
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+>
+  <input name="name" placeholder="Your Name" type="text" />
+  <input name="email" placeholder="name@name.com" type="email" />
+  <textarea name="message" />
+  <button>Send</button>
 </form>
