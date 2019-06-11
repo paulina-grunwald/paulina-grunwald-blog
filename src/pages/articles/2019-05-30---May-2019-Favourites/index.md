@@ -1,16 +1,15 @@
 ---
 title: May 2019 Monthly Favourites
-date: "2019-05-30T23:46:37.121Z"
+date: "2019-05-25T22:40:32.169Z"
 layout: post
 draft: false
 path: "/posts/may-2019-favourites/"
-category: "Monthly Favourites"
+category: "Career change"
 tags:
-  - "podcast"
-	- "quote"
-	- "website"
-	- "favourites"
-description: "Here you'll find a list of my monthly book, podcast, products and courses favourites."
+  - "Podcast"
+  - "quote"
+  - "favourites"
+description: Here you'll find a list of my monthly book, podcast, products and courses favourites.
 ---
 
 It’s my first ever favourites. In this blog post I will share with you a product, book, podcast episode or anything I found interesting over the course of the month.
