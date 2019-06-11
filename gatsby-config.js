@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     url: 'https://lumen.netlify.com',
-    title: 'Blog by John Doe',
-    subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    title: 'Blog by Paulina Grunwald',
+    subtitle: 'I am a self-taught software developer with Oil&Gas background. I am interested in programming, personal development, biohacking, fitness, and health.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -20,13 +20,11 @@ module.exports = {
       }
     ],
     author: {
-      name: 'John Doe',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#'
+      name: 'Paulina Grunwald',
+      email: 'paulina.grunwald@gmail.com',
+      twitter: 'https://github.com/paulina-grunwald',
+      github: 'paulina-grunwald',
+      instagtam: ''
     }
   },
   plugins: [
@@ -154,7 +152,7 @@ module.exports = {
               url: site.siteMetadata.url + edge.node.path,
               changefreq: 'daily',
               priority: 0.7
-            };
+            }
           })
       }
     },
@@ -163,4 +161,4 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss-sass'
   ]
-};
+}
