@@ -7,7 +7,6 @@ path: "/posts/may-2019-favourites/"
 category: "Monthly Favourites"
 tags:
   - "podcast"
-	- "book"
 	- "quote"
 	- "website"
 	- "favourites"
